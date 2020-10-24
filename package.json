@@ -1,0 +1,22 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "My custom prettier config to use in my projects",
+  "main": ".prettierrc",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RTK/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "custom"
+  ],
+  "author": "Rouven T. Kruse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RTK/prettier-config/issues"
+  },
+  "homepage": "https://github.com/RTK/prettier-config#readme"
+}
