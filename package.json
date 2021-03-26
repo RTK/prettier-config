@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "My custom prettier config to use in my projects",
     "main": "prettierrc.json",
-    "private": true,
+    "private": false,
     "repository": {
         "type": "git",
         "url": "git+https://github.com/RTK/prettier-config.git"
@@ -19,19 +19,6 @@
         "url": "https://github.com/RTK/prettier-config/issues"
     },
     "homepage": "https://github.com/RTK/prettier-config#readme",
-    "prettier": {
-        "arrowParens": "always",
-        "bracketSpacing": false,
-        "htmlWhitespaceSensitivity": "css",
-        "printWidth": 80,
-        "proseWrap": "preserve",
-        "quoteProps": "as-needed",
-        "semi": true,
-        "singleQuote": true,
-        "tabWidth": 4,
-        "trailingComma": "none",
-        "useTabs": false
-    },
     "devDependencies": {
         "prettier": "^2.1.2"
     }
