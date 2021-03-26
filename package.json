@@ -1,5 +1,5 @@
 {
-    "name": "prettier-config",
+    "name": "@rtk/prettier-config",
     "version": "1.0.0",
     "description": "My custom prettier config to use in my projects",
     "main": "prettierrc.json",
